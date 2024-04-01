@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0442c055-844e-4da1-8ad4-f2cd0d8bc081" name="Changes" comment="Linked list reversed!">
+    <list default="true" id="0442c055-844e-4da1-8ad4-f2cd0d8bc081" name="Changes" comment="Doesn't work!">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711931390160</updated>
-      <workItem from="1711931391285" duration="1720000" />
+      <workItem from="1711931391285" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize the linked list. Need 2 store variables.">
       <option name="closed" value="true" />
@@ -86,7 +86,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711932817714</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="For-each loop!">
+      <option name="closed" value="true" />
+      <created>1711933275029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711933275029</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Doesn't work!">
+      <option name="closed" value="true" />
+      <created>1711933409048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711933409048</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Doesn't work!">
+      <option name="closed" value="true" />
+      <created>1711933460254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711933460254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +119,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize the linked list. Need 2 store variables." />
     <MESSAGE value="Linked list reversed!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked list reversed!" />
+    <MESSAGE value="For-each loop!" />
+    <MESSAGE value="Doesn't work!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doesn't work!" />
   </component>
 </project>

@@ -26,10 +26,8 @@ public class Main {
         LinkedList<String> copyList =new LinkedList<>();
         for(String i : myList){
             //add last element in mylist
-            copyList.add(myList.getLast());
-
-            //remove last element in mylist
-            myList.removeLast();
+            copyList.add(myList.removeLast());
+            //checked javadoc, "modCount != expectedModCount"
         }
         System.out.println(copyList);
 
