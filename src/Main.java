@@ -1,5 +1,4 @@
 import java.util.LinkedList;
-import java.util.ListIterator;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,6 +13,7 @@ public class Main {
             myList.add(i, "E"+i);
         }
         //print for validation
+        System.out.println("Initial linked list:");
         System.out.println(myList);
 
 
@@ -34,7 +34,10 @@ public class Main {
             copyList.add(myList.get(i));
         }
         System.out.println(copyList);
-
+        System.out.println(copyList.get(2));
+        //all in all I think that went pretty well, especially for not allowing myself to use any outside resource.
+        //Of course, I could've googled the answer, but where's the fun in that? I want to learn.
+        //lol
 
 
 
