@@ -24,6 +24,7 @@ public class Main {
         LinkedList<String> copyList =new LinkedList<>();
         for(String i : myList){
             copyList.add(myList.getLast());
+            myList.removeLast();
         }
         System.out.println(copyList);
 
