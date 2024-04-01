@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0442c055-844e-4da1-8ad4-f2cd0d8bc081" name="Changes" comment="Initialize the linked list. Need 2 store variables.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0442c055-844e-4da1-8ad4-f2cd0d8bc081" name="Changes" comment="Linked list reversed!">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711931390160</updated>
-      <workItem from="1711931391285" duration="1346000" />
+      <workItem from="1711931391285" duration="1720000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize the linked list. Need 2 store variables.">
       <option name="closed" value="true" />
@@ -79,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711931835458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Linked list reversed!">
+      <option name="closed" value="true" />
+      <created>1711932817714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711932817714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize the linked list. Need 2 store variables." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize the linked list. Need 2 store variables." />
+    <MESSAGE value="Linked list reversed!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked list reversed!" />
   </component>
 </project>

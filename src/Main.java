@@ -15,9 +15,17 @@ public class Main {
         //print for validation
         System.out.println(myList);
 
-        System.out.println(myList.reversed());
-        //heck yeah. built-in function, baby.
 
+        //heck yeah. built-in function, baby.
+        System.out.println(myList.reversed());
+
+
+        //kidding...
+        LinkedList<String> copyList =new LinkedList<>();
+        for(String i : myList){
+            copyList.add(myList.getLast());
+        }
+        System.out.println(copyList);
 
 
 
