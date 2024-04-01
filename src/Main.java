@@ -1,4 +1,5 @@
 import java.util.LinkedList;
+import java.util.ListIterator;
 
 public class Main {
     public static void main(String[] args) {
@@ -17,17 +18,20 @@ public class Main {
 
 
         //heck yeah. built-in function, baby.
+        System.out.println("Using the built-in function:");
         System.out.println(myList.reversed());
 
 
         //kidding...
 
+
+        System.out.println("Using the for loop:");
         //create list to copy to
         LinkedList<String> copyList =new LinkedList<>();
-        for(String i : myList){
-            //add last element in mylist
-            copyList.add(myList.removeLast());
-            //checked javadoc, "modCount != expectedModCount"
+
+        //use basic for loop.
+        for(int  i = myList.size()-1; i!=-1; i--){
+            copyList.add(myList.get(i));
         }
         System.out.println(copyList);
 
